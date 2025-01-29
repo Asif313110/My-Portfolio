@@ -691,13 +691,18 @@ h3.hello span {
     margin: 15px 0 5px;
 }
 
-.contact .contact-info-item p {
+.contact .contact-info-item p  {
     font-size: 16px;
     line-height: 25px;
     color: var(--text-black-700);
     font-weight: 400;
 }
-
+.contact .contact-info-item p a {
+    font-size: 16px;
+    line-height: 25px;
+    color: var(--text-black-700);
+    font-weight: 400;
+}
 .contact .contact-form {
     flex: 0 0 100%;
     max-width: 100%;
